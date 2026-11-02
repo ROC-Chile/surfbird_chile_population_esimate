@@ -4,7 +4,8 @@ Data and code for:
 
 > Sandvig, E.M., Contreras, G., Villalobos, F., Díaz, M., Álvarez, G., Silva, C. & Medrano, F. (2026). Chile as a major non-breeding stronghold for the Surfbird (*Calidris virgata*): implications for global population estimates. *Journal of Field Ornithology*. <!-- add volume/DOI at publication -->
 
-Archived version (Zenodo): <!-- DOI of the tagged release -->
+Archived version (Zenodo): <a href="https://doi.org/10.5281/zenodo.23890333"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23890333.svg" alt="DOI"></a>
+
 
 ## Summary
 
