@@ -55,10 +55,6 @@ source("code/surfbird_analysis.R")
 | `outputs/figure1_surfbird.pdf/.png` | Figure 1 |
 | `outputs/sessionInfo.txt` | Software versions used |
 
-## License and citation
-
-<!-- Add license (e.g. CC BY 4.0 for data, MIT for code) and citation once chosen. -->
-
 ## Contact
 
 Erik Sandvig — eriksandvig@redobservadores.cl or esandvig@santotomas.cl
